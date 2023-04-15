@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, my name is Agustin Lopez👋
+  🌱 I’m currently learning Solidity and some tools to help me improve my Smarts Contracts
 
 <!--
 **AguusLopez07/AguusLopez07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
